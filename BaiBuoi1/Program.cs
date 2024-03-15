@@ -10,7 +10,9 @@ namespace BaiBuoi1
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Hahah");
+            Console.ReadKey();
         }
+
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\QUYNH\Source\Repos\quin210\HW-DOTNET---QUYNH\BaiBuoi1\bin\Debug\BaiBuoi1.exe.config
+C:\Users\QUYNH\Source\Repos\quin210\HW-DOTNET---QUYNH\BaiBuoi1\bin\Debug\BaiBuoi1.exe
+C:\Users\QUYNH\Source\Repos\quin210\HW-DOTNET---QUYNH\BaiBuoi1\bin\Debug\BaiBuoi1.pdb
+C:\Users\QUYNH\Source\Repos\quin210\HW-DOTNET---QUYNH\BaiBuoi1\obj\Debug\BaiBuoi1.csproj.AssemblyReference.cache
+C:\Users\QUYNH\Source\Repos\quin210\HW-DOTNET---QUYNH\BaiBuoi1\obj\Debug\BaiBuoi1.csproj.CoreCompileInputs.cache
+C:\Users\QUYNH\Source\Repos\quin210\HW-DOTNET---QUYNH\BaiBuoi1\obj\Debug\BaiBuoi1.exe
+C:\Users\QUYNH\Source\Repos\quin210\HW-DOTNET---QUYNH\BaiBuoi1\obj\Debug\BaiBuoi1.pdb
