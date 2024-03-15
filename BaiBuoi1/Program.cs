@@ -11,6 +11,7 @@ namespace BaiBuoi1
     {
         static void Main(string[] args)
         {
+            //bai 1
             int a, b; 
             Console.WriteLine("Enter 2 numbers: ");
             a = int.Parse(Console.ReadLine());
@@ -18,7 +19,7 @@ namespace BaiBuoi1
             Console.WriteLine($"Sum of them is {a + b}");
 
             Console.WriteLine("------------------------");
-
+            //bai 2
             int n;
             Console.WriteLine("Enter n: ");
             n = int.Parse(Console.ReadLine());
